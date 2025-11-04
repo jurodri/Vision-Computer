@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+
+# Pastas de vídeos/dados
+video_epi/
+video_epi2/
+videos/
+
+# Arquivos de configuração/script ocultos
+/epi.py
+/epiview.py
+/extrair.py
+/train.py
